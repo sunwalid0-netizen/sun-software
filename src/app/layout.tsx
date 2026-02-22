@@ -11,25 +11,18 @@ const cairo = Cairo({
 });
 
 export const metadata: Metadata = {
-  title: "Sun Software | خدمات برمجية احترافية",
-  description: "شركة Sun Software تقدم خدمات برمجية عن طريق السريال والتحكم عن بعد. نقدم حلول تقنية متميزة لعملائنا.",
-  keywords: ["Sun Software", "خدمات برمجية", "سريال", "تراخيص", "TeamViewer", "تحكم عن بعد", "برمجيات"],
-  authors: [{ name: "Sun Software Team" }],
+  title: "عالم سمسم | نظام الكاشير",
+  description: "نظام كاشير متكامل لمحل سوبر ماركت عالم سمسم",
+  keywords: ["كاشير", "POS", "سوبر ماركت", "عالم سمسم", "نقاط البيع"],
+  authors: [{ name: "عالم سمسم" }],
   icons: {
-    icon: "/sun-software-logo.png",
+    icon: "/alam-sesame-logo.png",
   },
   openGraph: {
-    title: "Sun Software | خدمات برمجية احترافية",
-    description: "شركة Sun Software تقدم خدمات برمجية عن طريق السريال والتحكم عن بعد",
-    url: "https://sunsoftware.com",
-    siteName: "Sun Software",
+    title: "عالم سمسم | نظام الكاشير",
+    description: "نظام كاشير متكامل لمحل سوبر ماركت عالم سمسم",
     type: "website",
     locale: "ar_SA",
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Sun Software | خدمات برمجية احترافية",
-    description: "شركة Sun Software تقدم خدمات برمجية عن طريق السريال والتحكم عن بعد",
   },
 };
 
