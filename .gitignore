@@ -49,3 +49,10 @@ prompt
 server.log
 # Skills directory
 /skills/
+
+# Upload and temp files
+/upload/
+/db/
+/download/
+deploy.sh
+worklog.md
